@@ -1,2 +1,2 @@
 #!/bin/bash
-printf keji
+echo "Hello, World"
