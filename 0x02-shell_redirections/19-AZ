@@ -1,2 +1,2 @@
 #!/bin/bash
-typer
+tr 'A' 'Z' | tr 'c' 'e'
