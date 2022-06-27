@@ -1,2 +1,2 @@
 #!/bin/bash
-capping
+grep -v "bin" /etc/passwd
