@@ -1,2 +1,2 @@
 #!/bin/bash
-himmo
+sort | uniq -u
