@@ -1,2 +1,2 @@
 #!/bin/bash
-romeo
+grep -A 3 "root" /etc/passwd
