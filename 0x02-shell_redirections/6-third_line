@@ -1,2 +1,2 @@
 #!/bin/bash
-tress
+head -3 iacta | tail -n 1 

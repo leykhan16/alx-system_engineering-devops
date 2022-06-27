@@ -1,2 +1,2 @@
 #!/bin/bash
-kejiii
+tail /etc/passwd
