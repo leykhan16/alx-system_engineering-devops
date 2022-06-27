@@ -1,2 +1,2 @@
 #!/bin/bash
-fricky
+grep -C "bin" /etc/passwd
