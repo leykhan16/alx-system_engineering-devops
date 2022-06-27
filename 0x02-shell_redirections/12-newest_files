@@ -1,2 +1,2 @@
 #!/bin/bash
-idkooo
+ls -1t | head -10
