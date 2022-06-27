@@ -1,2 +1,2 @@
 #!/bin/bash
-yuyuyu
+cat /etc/passwd /etc/hosts
