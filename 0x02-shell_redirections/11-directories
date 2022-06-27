@@ -1,2 +1,2 @@
 #!/bin/bash
-gottame
+find > -type : -path . -print | wc -l
