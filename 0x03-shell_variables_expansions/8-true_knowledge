@@ -1,2 +1,2 @@
 #!/bin/bash
-task8
+echo $((128+$TRUEKNOWLEDGE))
