@@ -1,2 +1,2 @@
 #!/bin/bash
-task102
+paste - - | cut -f 1
