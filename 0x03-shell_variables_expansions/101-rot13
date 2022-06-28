@@ -1,2 +1,2 @@
 #!/bin/bash
-task101
+tr '[A-Za-Z]' '[N -ZA-Mn-za-m]'
