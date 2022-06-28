@@ -1,2 +1,2 @@
 #!/bin/bash
-task10
+echo $((BREATH**LOVE))
